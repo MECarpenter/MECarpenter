@@ -2,7 +2,6 @@
 **Web Developer / UX Design Student**  
 “Code with purpose, design with heart.”
 
----
 
 ## 👩‍💻 About Me  
 I’m Maria Carpenter, a web development student at Arizona State University pursuing a degree in Graphic Information Technology.  
@@ -13,7 +12,7 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 **Frameworks & Tools:** Bootstrap, GitHub, VS Code  
 **Strengths:** Responsive Design, Accessibility, Semantic HTML, User-Centered Layouts  
 
----
+
 
 ## 💼 Featured Projects  
 
@@ -25,7 +24,7 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 
 🔗 [View Repository](https://github.com/MECarpenter/wunderlust)
 
----
+
 
 ### 🌾 Field & Feast  
 **A Responsive Farm-to-Table Website**  
@@ -35,7 +34,7 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 
 🔗 [View Repository](https://github.com/MECarpenter/field-feast)
 
----
+
 
 ### ⚡ Vanguard  
 **Interactive Design for Modern Storytelling**  
@@ -44,7 +43,6 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 
 🔗 [View Repository](https://github.com/MECarpenter/vanguard)
 
----
 
 ## 🌟 My Focus  
 Building with Purpose, Designing with Heart  
@@ -56,7 +54,6 @@ My goal is to continue developing inclusive, engaging websites that serve real p
 - Continue improving my UX and accessibility design process  
 - Collaborate with developers and designers on real-world client work  
 
----
 
 ## 📬 Connect with Me  
 📍 Redwood City, California  
