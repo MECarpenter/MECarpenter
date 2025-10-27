@@ -22,7 +22,7 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 - Used semantic HTML, CSS Grid, and accessibility standards for mobile, tablet, and desktop views.  
 - **Skills Used:** HTML, CSS Grid, Media Queries, Accessibility  
 
-🔗 [View Repository](https://github.com/MECarpenter/wunderlust)
+🔗 [https://github.com/MECarpenter/wunderlust](https://mecarpenter.github.io/wonderlustMajorca/)
 
 
 
