@@ -39,7 +39,7 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 ### ⚡ Vanguard  
 **Interactive Design for Modern Storytelling**  
 - Created a sleek, modern webpage with storytelling through layout, transitions, and motion.  
-- **Skills Used:** HTML5, CSS Flexbox/Grid, JavaScript, Interactive Design  
+- **Skills Used:** HTML5, CSS Flexbox/Grid, Interactive Design  
 
 🔗 [View Repository](https://github.com/MECarpenter/vanguard)
 
