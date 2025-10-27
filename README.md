@@ -32,7 +32,7 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 - Integrated semantic HTML, CSS Grid, and accessibility features.  
 - **Skills Used:** HTML, CSS Grid, Media Queries, GitHub Pages  
 
-🔗 [(https://github.com/MECarpenter/field-feast)]
+🔗 [https://mecarpenter.github.io/fieldandfeast/]
 
 
 
