@@ -32,7 +32,7 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 - Integrated semantic HTML, CSS Grid, and accessibility features.  
 - **Skills Used:** HTML, CSS Grid, Media Queries, GitHub Pages  
 
-🔗 [View Repository](https://github.com/MECarpenter/field-feast)
+🔗 [(https://github.com/MECarpenter/field-feast)]
 
 
 
@@ -41,7 +41,7 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 - Created a sleek, modern webpage with storytelling through layout, transitions, and motion.  
 - **Skills Used:** HTML5, CSS Flexbox/Grid, Interactive Design  
 
-🔗 [[View Repository](https://mecarpenter.github.io/vanguard/)](https://github.com/MECarpenter/vanguard)
+🔗 [(https://mecarpenter.github.io/vanguard/)
 
 
 ## 🌟 My Focus  
