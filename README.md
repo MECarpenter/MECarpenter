@@ -1,7 +1,6 @@
 <!-- Brand Header -->
 <p align="center">
-  <img src="logo png.png
-" alt="Maria Carpenter Logo" width="280">
+  <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo.png" width="280" alt="Maria Carpenter Logo">
 </p>
 
 <h1 align="center" style="color:#6C1E1E;">Maria Carpenter</h1>
