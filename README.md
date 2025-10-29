@@ -65,4 +65,12 @@ My goal is to continue developing inclusive, engaging websites that serve real p
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MECarpenter)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariacarpenter@email.com)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23067681?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%236C1E1E?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23FF00FF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23067681?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%236C1E1E?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
 
+---
