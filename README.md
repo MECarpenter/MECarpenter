@@ -8,7 +8,7 @@
 <p align="center">
   <b style="color:#FF00FF;">"Code with purpose, design with heart."</b>
 </p>
----
+
 ## 👩‍💻 About Me  
 I’m Maria Carpenter, a web development student at Arizona State University pursuing a degree in Graphic Information Technology.  
 I combine creativity and technical skill to build clean, user-friendly interfaces that prioritize accessibility and performance.  
