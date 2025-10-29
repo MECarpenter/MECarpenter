@@ -7,7 +7,11 @@
 <p align="center" style="color:#6C1E1E;"><em>“Code with purpose, design with heart.”</em></p>
 
 
+
+
 ---
+
+
 
 ## 👩‍💻 About Me  
 
@@ -29,7 +33,12 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+
+
 ---
+
+
 
 ## 🌎 Featured Projects   
 
@@ -56,10 +65,10 @@ Modern webpage that uses **motion**, **hierarchy**, and **interaction**.
 
 ---
 
-⭐ *Building with purpose, designing with heart.*
 
----
-## 🌟 My Focus  
+## 🌟 My Focus 
+
+
 Building with Purpose, Designing with Heart  
 I’ve learned how design and technology come together to create meaningful digital experiences.  
 My goal is to continue developing inclusive, engaging websites that serve real people and real needs.  
@@ -69,7 +78,9 @@ My goal is to continue developing inclusive, engaging websites that serve real p
 - Continue improving my UX and accessibility design process  
 - Collaborate with developers and designers on real-world client work  
 
+
 ---
+
 
 ## 📚 Currently Learning  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
