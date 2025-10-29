@@ -3,11 +3,10 @@
        width="660" 
        alt="Maria Carpenter Logo">
 </p>
-
 <h2 align="center" style="color:#067681; font-family: Nunito, sans-serif;">Full-Stack Web Developer | UX & Digital Design Student</h2>
 <p align="center" style="color:#6C1E1E;"><em>“Code with purpose, design with heart.”</em></p>
 
-<hr style="border: 2px solid #FF00FF; margin-top: 20px; margin-bottom: 20px;">
+
 
 
 ## 👩‍💻 About Me  
