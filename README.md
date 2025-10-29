@@ -1,18 +1,12 @@
 <div align="right">
-  <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" width="480" alt="Maria Carpenter Logo">
+  <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" width="440" alt="Maria Carpenter Logo">
+  <hr style="width: 40%; border: 2px solid #FF00FF; margin-right: 0;">
 </div>
 
-<div align="center">
-  <h2 style="color:#067681; font-family: Nunito, sans-serif;">Full-Stack Web Developer | UX & Digital Design Student</h2>
-  <p><em>“Code with purpose, design with heart.”</em></p>
-</div>
+<h2 align="right" style="color:#067681; font-family: Nunito, sans-serif;">Full-Stack Web Developer | UX & Digital Design Student</h2>
+<p align="right" style="color:#6C1E1E;"><em>“Code with purpose, design with heart.”</em></p>
 
-<h1 align="center" style="color:#6C1E1E;"></h1>
-<h3 align="center" style="color:#067681;">Full-Stack Web Developer | UX & Digital Design Student</h3>
-
-<p align="center" style="color:#FF00FF;">
-  “Code with purpose, design with heart.”
-</p>
+<hr style="border: 2px solid #FF00FF; margin-top: 20px; margin-bottom: 20px;">
 
 
 ## 👩‍💻 About Me  
