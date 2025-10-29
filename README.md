@@ -1,6 +1,6 @@
 <div align="left">
   <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" width="440" alt="Maria Carpenter Logo">
-  <hr style="width: 40%; border: 2px solid #FF00FF; margin-right: 10px;">
+  <hr style="width: 40%; border: 2px solid #FF00FF; margin-right: 45px;">
 </div>
 
 <h2 align="center" style="color:#067681; font-family: Nunito, sans-serif;">Full-Stack Web Developer | UX & Digital Design Student</h2>
