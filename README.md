@@ -32,13 +32,13 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 
 ## 🌎 Featured Projects  
 
-### 🧳[View Project →]([https://mecarpenter.github.io/wunderlustMajorca/](https://mecarpenter.github.io/wonderlustMajorca/) 
-[View Code on GitHub →](https://github.com/MECarpenter/wunderlust)  
+### 🧳[Wunderlust]([https://mecarpenter.github.io/wunderlustMajorca/](https://mecarpenter.github.io/wonderlustMajorca/) 
+[View Code on GitHub →]([https://github.com/MECarpenter/wunderlust](https://mecarpenter.github.io/wonderlustMajorca/))  
 
 Accessible, mobile-first travel website designed with **semantic HTML5** and **CSS Grid**.  
 **Skills:** Accessibility, Media Queries, Responsive Design  
 
-### 🌾  [View Project →](https://mecarpenter.github.io/fieldandfeast/)  
+### 🌾  [Field & Feast](https://mecarpenter.github.io/fieldandfeast/)  
 [View Code on GitHub →](https://github.com/MECarpenter/fieldandfeast)  
 Farm-to-table themed site emphasizing **clean layout**, **contrast**, and **usability**.  
 **Skills:** HTML, CSS Grid, Mobile-First Design  
