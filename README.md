@@ -32,7 +32,7 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 
 ## 🌎 Featured Projects  
 
-### 🧳[View Project →](https://mecarpenter.github.io/wunderlustMajorca/)  
+### 🧳[View Project →]([https://mecarpenter.github.io/wunderlustMajorca/](https://mecarpenter.github.io/wonderlustMajorca/) 
 [View Code on GitHub →](https://github.com/MECarpenter/wunderlust)  
 
 Accessible, mobile-first travel website designed with **semantic HTML5** and **CSS Grid**.  
