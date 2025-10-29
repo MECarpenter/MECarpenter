@@ -1,8 +1,8 @@
-<!-- Brand Header -->
-<p align="center">
-  <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" width="550" alt="Maria Carpenter Logo">
-</p>
-
+<div align="center">
+  <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" width="500" alt="Maria Carpenter Logo">
+  <h2 style="color:#067681; font-family: Nunito, sans-serif;">Full-Stack Web Developer | UX & Digital Design Student</h2>
+  <p><em>“Code with purpose, design with heart.”</em></p>
+</div>
 <h1 align="center" style="color:#6C1E1E;"></h1>
 <h3 align="center" style="color:#067681;">Full-Stack Web Developer | UX & Digital Design Student</h3>
 
