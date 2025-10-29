@@ -1,6 +1,6 @@
 <p align="right">
   <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" 
-       width="800" 
+       width="800px" 
        alt="Maria Carpenter Logo">
 </p>
 <h2 align="center" style="color:#067681; font-family: Nunito, sans-serif;">Full-Stack Web Developer | UX & Digital Design Student</h2>
