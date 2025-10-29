@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" 
        width="800px" 
        alt="Maria Carpenter Logo" 
