@@ -30,7 +30,7 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 
 ---
 
-## 🌎 Featured Projects  
+🌎 Featured Projects  
 
 ### 🧳 [Wunderlust Travel](https://mecarpenter.github.io/wonderlustMajorca/)  
 [View Code on GitHub →](https://github.com/MECarpenter/wonderlustMajorca)  
