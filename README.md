@@ -3,7 +3,7 @@
   <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" 
        width="420" 
        alt="Maria Carpenter Logo" 
-       style="margin: 40px auto 20px auto;">
+       style="margin: 100px auto 20px auto;">
 </p>
 </div>
 
