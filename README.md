@@ -7,14 +7,14 @@
 <p align="center" style="color:#6C1E1E;"><em>“Code with purpose, design with heart.”</em></p>
 
 
-
+---
 
 ## 👩‍💻 About Me  
 I’m Maria Carpenter, a web development student at Arizona State University pursuing a degree in Graphic Information Technology.  
 I combine creativity and technical skill to build clean, user-friendly interfaces that prioritize accessibility and performance.  
 I enjoy transforming code into engaging, functional experiences and am always eager to learn new technologies that enhance usability and design.  
 
-<hr style="border: 2px solid #FF00FF; margin-top: 20px; margin-bottom: 20px;">
+---
 
 ## 🛠️ Tech & Tools  
 
@@ -28,7 +28,7 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<hr style="border: 2px solid #FF00FF; margin-top: 20px; margin-bottom: 20px;">
+---
 
 ## 🌎 Featured Projects  
 
@@ -47,7 +47,7 @@ Farm-to-table themed site emphasizing **clean layout**, **contrast**, and **usab
 Modern webpage that uses **motion**, **hierarchy**, and **interaction**.  
 **Skills:** HTML5, CSS Flexbox/Grid  
 
-<hr style="border: 2px solid #FF00FF; margin-top: 20px; margin-bottom: 20px;">
+---
 
 ⭐ *Building with purpose, designing with heart.*
 
@@ -61,14 +61,14 @@ My goal is to continue developing inclusive, engaging websites that serve real p
 - Continue improving my UX and accessibility design process  
 - Collaborate with developers and designers on real-world client work  
 
-<hr style="border: 2px solid #FF00FF; margin-top: 20px; margin-bottom: 20px;">
+---
 
 ## 📚 Currently Learning  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<hr style="border: 2px solid #FF00FF; margin-top: 20px; margin-bottom: 20px;">
+---
 
 ## 📬 Let’s Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariacarpenter1)
@@ -76,5 +76,3 @@ My goal is to continue developing inclusive, engaging websites that serve real p
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariacarpenter@email.com)
 
 
-
-<hr style="border: 2px solid #FF00FF; margin-top: 20px; margin-bottom: 20px;">
