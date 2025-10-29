@@ -1,13 +1,15 @@
+<!-- Brand Header -->
 <p align="center">
-  <img src="https://github.com/MECarpenter/your-logo.png" width="160" alt="Maria Carpenter Logo">
+  <img src="YOUR-LOGO-URL-HERE" alt="Maria Carpenter Logo" width="280">
 </p>
 
 <h1 align="center" style="color:#6C1E1E;">Maria Carpenter</h1>
-<h3 align="center" style="color:#067681;">Full-Stack Web Developer | UX & Digital Design</h3>
+<h3 align="center" style="color:#067681;">Full-Stack Web Developer | UX & Digital Design Student</h3>
 
-<p align="center">
-  <b style="color:#FF00FF;">"Code with purpose, design with heart."</b>
+<p align="center" style="color:#FF00FF;">
+  “Code with purpose, design with heart.”
 </p>
+
 
 ## 👩‍💻 About Me  
 I’m Maria Carpenter, a web development student at Arizona State University pursuing a degree in Graphic Information Technology.  
