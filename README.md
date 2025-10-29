@@ -10,6 +10,7 @@
 ---
 
 ## 👩‍💻 About Me  
+
 I’m Maria Carpenter, a web development student at Arizona State University pursuing a degree in Graphic Information Technology.  
 I combine creativity and technical skill to build clean, user-friendly interfaces that prioritize accessibility and performance.  
 I enjoy transforming code into engaging, functional experiences and am always eager to learn new technologies that enhance usability and design.  
@@ -30,7 +31,7 @@ I enjoy transforming code into engaging, functional experiences and am always ea
 
 ---
 
-🌎 Featured Projects  
+## 🌎 Featured Projects   
 
 ### 🧳 [Wunderlust Travel](https://mecarpenter.github.io/wonderlustMajorca/)  
 [View Code on GitHub →](https://github.com/MECarpenter/wonderlustMajorca)  
