@@ -1,8 +1,5 @@
 # Maria Carpenter  
 **Web Developer / UX Design Student**  
-“Code with purpose, design with heart.”
-
-
 ## 👩‍💻 About Me  
 I’m Maria Carpenter, a web development student at Arizona State University pursuing a degree in Graphic Information Technology.  
 I combine creativity and technical skill to build clean, user-friendly interfaces that prioritize accessibility and performance.  
