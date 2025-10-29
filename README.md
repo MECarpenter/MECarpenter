@@ -1,10 +1,10 @@
 <div align="right">
   <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" width="440" alt="Maria Carpenter Logo">
-  <hr style="width: 40%; border: 2px solid #FF00FF; margin-right: 0;">
+  <hr style="width: 40%; border: 2px solid #FF00FF; margin-right: 50px;">
 </div>
 
-<h2 align="right" style="color:#067681; font-family: Nunito, sans-serif;">Full-Stack Web Developer | UX & Digital Design Student</h2>
-<p align="right" style="color:#6C1E1E;"><em>“Code with purpose, design with heart.”</em></p>
+<h2 align="center" style="color:#067681; font-family: Nunito, sans-serif;">Full-Stack Web Developer | UX & Digital Design Student</h2>
+<p align="center" style="color:#6C1E1E;"><em>“Code with purpose, design with heart.”</em></p>
 
 <hr style="border: 2px solid #FF00FF; margin-top: 20px; margin-bottom: 20px;">
 
