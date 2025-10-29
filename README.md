@@ -35,22 +35,8 @@ Farm-to-table themed site emphasizing **clean layout**, **contrast**, and **usab
 **Skills:** HTML, CSS Grid, Mobile-First Design  
 
 ### ⚡ [Vanguard](https://mecarpenter.github.io/vanguard/)
-Modern storytelling webpage using **motion**, **hierarchy**, and **interaction**.  
+Modern webpage that uses **motion**, **hierarchy**, and **interaction**.  
 **Skills:** HTML5, CSS Flexbox/Grid  
-
----
-
-## 📚 Currently Learning  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📬 Let’s Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariacarpenter1)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MECarpenter)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariacarpenter@email.com)
 
 ---
 
@@ -66,11 +52,17 @@ My goal is to continue developing inclusive, engaging websites that serve real p
 - Continue improving my UX and accessibility design process  
 - Collaborate with developers and designers on real-world client work  
 
+---
+## 📚 Currently Learning  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📬 Connect with Me  
-📍 Redwood City, California  
-🔗 [LinkedIn](https://linkedin.com/in/mariacarpenter1)  
-💻 [GitHub](https://github.com/MECarpenter)  
-📧 mariacarpenter@email.com  
+---
+
+## 📬 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariacarpenter1)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MECarpenter)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariacarpenter@email.com)
 
 
