@@ -1,5 +1,14 @@
-# Maria Carpenter  
-**Web Developer / UX Design Student**  
+<p align="center">
+  <img src="https://github.com/MECarpenter/your-logo.png" width="160" alt="Maria Carpenter Logo">
+</p>
+
+<h1 align="center" style="color:#6C1E1E;">Maria Carpenter</h1>
+<h3 align="center" style="color:#067681;">Full-Stack Web Developer | UX & Digital Design</h3>
+
+<p align="center">
+  <b style="color:#FF00FF;">"Code with purpose, design with heart."</b>
+</p>
+---
 ## 👩‍💻 About Me  
 I’m Maria Carpenter, a web development student at Arizona State University pursuing a degree in Graphic Information Technology.  
 I combine creativity and technical skill to build clean, user-friendly interfaces that prioritize accessibility and performance.  
@@ -65,12 +74,6 @@ My goal is to continue developing inclusive, engaging websites that serve real p
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MECarpenter)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariacarpenter@email.com)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23067681?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%236C1E1E?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23FF00FF?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-%23067681?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%236C1E1E?style=for-the-badge&logo=firebase&logoColor=white" />
-</p>
+
 
 ---
