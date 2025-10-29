@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" width="440" alt="Maria Carpenter Logo">
   <hr style="width: 40%; border: 2px solid #FF00FF; margin-right: 10px;">
 </div>
