@@ -1,9 +1,9 @@
 <!-- Brand Header -->
 <p align="center">
-  <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo png.png" width="280" alt="Maria Carpenter Logo">
+  <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" width="550" alt="Maria Carpenter Logo">
 </p>
 
-<h1 align="center" style="color:#6C1E1E;">Maria Carpenter</h1>
+<h1 align="center" style="color:#6C1E1E;"></h1>
 <h3 align="center" style="color:#067681;">Full-Stack Web Developer | UX & Digital Design Student</h3>
 
 <p align="center" style="color:#FF00FF;">
