@@ -1,6 +1,6 @@
 <p align="right">
   <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" 
-       width="800" 
+       width="700" 
        alt="Maria Carpenter Logo">
 </p>
 
