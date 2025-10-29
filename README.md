@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" width="440" alt="Maria Carpenter Logo">
+  <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" width="500" alt="Maria Carpenter Logo">
  
 </div>
 
