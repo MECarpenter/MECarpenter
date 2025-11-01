@@ -1,10 +1,8 @@
-<!-- 🌸 Background Banner -->
-<p align="center" style="margin: 0; padding: 0;">
+<div align="center" style="background-color:#fff; padding:0; margin:0; border-radius:15px;">
   <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/a82409e62b8c82512e95c48f5a38071bc2a35fe7/logo.jpg"
        alt="Maria Carpenter Banner"
-       style="display: block; width: 100%; max-width: 100%; border-radius: 15px; margin: 0 auto;">
-</p>
-
+       style="display:block; width:100%; max-width:100%; border-radius:15px;">
+</div>
 
 
 <h2 align="center" style="color:#067681; font-family: Nunito, sans-serif;">
