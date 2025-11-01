@@ -3,6 +3,9 @@
   <h1 style="color:white;">Maria Carpenter</h1>
   <p style="color:white;">Full-Stack Web Developer | UX & Digital Design Student</p>
 </div>
+body {
+  background: #FFEBEE !important;
+}
 
 ## 👩‍💻 About Me  
 
