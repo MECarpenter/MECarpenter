@@ -1,31 +1,28 @@
-<!-- 🌸 Hero Section -->
-<div align="center" style="position: relative; text-align: center;">
-
-  <!-- Background Image -->
+<!-- 🌸 Background Banner -->
+<div align="center">
   <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/abstract-bokeh-pastel-background-beautiful-background-pastel-color_87555-4703.jpg"
-       alt="Pastel Background"
+       alt="Pastel Background Banner"
        width="100%"
-       style="border-radius: 15px;">
-
-  <!-- Overlay Content -->
-  <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%);
-              background-color: rgba(255, 255, 255, 0.8); padding: 20px 30px; border-radius: 12px;">
-
-    <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/logo%20png.png"
-         width="300px"
-         alt="Maria Carpenter Logo"
-         style="display:block; margin:0 auto 10px auto;">
-
-    <h2 style="color:#067681; font-family: Nunito, sans-serif; margin: 5px 0;">
-      Full-Stack Web Developer | UX & Digital Design Student
-    </h2>
-
-    <p style="color:#6C1E1E; font-size: 1.1em; margin: 0;">
-      <em>“Code with purpose, design with heart.”</em>
-    </p>
-  </div>
+       style="border-radius: 10px; margin-bottom: -30px;">
 </div>
 
+<!-- 💎 Logo and Title Section -->
+<p align="right">
+  <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/logo%20png.png"
+       width="560px"
+       alt="Maria Carpenter Logo">
+</p>
+
+<h2 align="center" style="color:#067681; font-family: Nunito, sans-serif;">
+  Full-Stack Web Developer | UX & Digital Design Student
+</h2>
+
+<p align="center" style="color:#6C1E1E;">
+  <em>“Code with purpose, design with heart.”</em>
+</p>
+
+<div align="center" style="background-color:#F7C7C7; padding: 30px; border-radius: 15px;">
+</div>
 
 ---
 ## 👩‍💻 About Me  
