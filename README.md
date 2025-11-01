@@ -1,8 +1,8 @@
 <!-- 🌸 Background Banner -->
-<div align="center" style="background-color:#fff; padding:0; margin:0; border-radius:15px;">
-  <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/a82409e62b8c82512e95c48f5a38071bc2a35fe7/logo.jpg"
+<div align="center" style="margin: 0 auto; padding: 0; width: 98%;">
+  <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/ae659146f993ddd75295203ab5738f1091b63672/logo.jpg"
        alt="Maria Carpenter Banner"
-       style="display:block; width:100%; max-width:100%; border-radius:15px;">
+       style="display: block; width: 100%; border-radius: 15px;">
 </div>
 
 <h2 align="center" style="color:#067681; font-family: Nunito, sans-serif;">
