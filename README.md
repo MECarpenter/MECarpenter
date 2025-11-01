@@ -1,24 +1,34 @@
-<!-- 🌸 Combined Background + Logo + Title -->
-<div align="center"
-     style="background: url('https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/abstract-bokeh-pastel-background-beautiful-background-pastel-color_87555-4703.jpg') center/cover no-repeat; 
-            padding: 80px 20px; 
-            border-radius: 15px;">
+<!-- 🌸 Hero Section -->
+<div align="center" style="position: relative; text-align: center;">
 
-  <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/logo%20png.png" 
-       width="300px" 
-       alt="Maria Carpenter Logo" 
-       style="margin-bottom: 20px;">
+  <!-- Background Image -->
+  <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/abstract-bokeh-pastel-background-beautiful-background-pastel-color_87555-4703.jpg"
+       alt="Pastel Background"
+       width="100%"
+       style="border-radius: 15px;">
 
-  <h2 style="color:#067681; font-family: Nunito, sans-serif; margin: 10px 0;">
-    Full-Stack Web Developer | UX & Digital Design Student
-  </h2>
+  <!-- Overlay Content -->
+  <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%);
+              background-color: rgba(255, 255, 255, 0.8); padding: 20px 30px; border-radius: 12px;">
 
-  <p style="color:#6C1E1E; font-size: 1.1em;">
-    <em>“Code with purpose, design with heart.”</em>
-  </p>
----
+    <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/logo%20png.png"
+         width="300px"
+         alt="Maria Carpenter Logo"
+         style="display:block; margin:0 auto 10px auto;">
+
+    <h2 style="color:#067681; font-family: Nunito, sans-serif; margin: 5px 0;">
+      Full-Stack Web Developer | UX & Digital Design Student
+    </h2>
+
+    <p style="color:#6C1E1E; font-size: 1.1em; margin: 0;">
+      <em>“Code with purpose, design with heart.”</em>
+    </p>
+  </div>
 </div>
-### 👩‍💻 About Me  
+
+
+---
+## 👩‍💻 About Me  
 
 I’m Maria Carpenter, a web development student at Arizona State University pursuing a degree in Graphic Information Technology.  
 I combine creativity and technical skill to build clean, user-friendly interfaces that prioritize accessibility and performance.  
