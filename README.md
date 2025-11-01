@@ -1,9 +1,8 @@
-<!-- 🌸 Full Banner -->
-<div style="width:100%; text-align:center; margin:0; padding:0;">
+<!-- 🌸 Background Banner -->
+<div align="center" style="margin: 0 auto; padding: 0; width: 98%;">
   <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/a82409e62b8c82512e95c48f5a38071bc2a35fe7/logo.jpg"
        alt="Maria Carpenter Banner"
-       width="1000"
-       style="max-width:100%; display:inline-block; border-radius:15px;">
+       style="display: block; width: 100%; border-radius: 15px;">
 </div>
 
 
