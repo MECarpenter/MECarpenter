@@ -6,12 +6,7 @@
        style="border-radius: 15px;">
 </div>
 
-<!-- 💎 Logo and Title Section -->
-<p align="right">
-  <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/logo%20png.png"
-       width="560px"
-     
-</p>
+
 
 <h2 align="center" style="color:#067681; font-family: Nunito, sans-serif;">
   Full-Stack Web Developer | UX & Digital Design Student
