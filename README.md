@@ -1,9 +1,9 @@
 <!-- 🌸 Background Banner -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/abstract-bokeh-pastel-background-beautiful-background-pastel-color_87555-4703.jpg"
-       alt="Pastel Background Banner"
+         alt="Pastel Background"
        width="100%"
-       style="border-radius: 10px; margin-bottom: 0px;">
+       style="border-radius: 15px;">
 </div>
 
 <!-- 💎 Logo and Title Section -->
