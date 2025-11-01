@@ -10,7 +10,7 @@
 <p align="right">
   <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/logo%20png.png"
        width="560px"
-       alt="Maria Carpenter Logo">
+     
 </p>
 
 <h2 align="center" style="color:#067681; font-family: Nunito, sans-serif;">
