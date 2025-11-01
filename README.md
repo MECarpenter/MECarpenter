@@ -6,6 +6,12 @@
 <h2 align="center" style="color:#067681; font-family: Nunito, sans-serif;">Full-Stack Web Developer | UX & Digital Design Student</h2>
 <p align="center" style="color:#6C1E1E;"><em>“Code with purpose, design with heart.”</em></p>
 
+<div align="center" style="background: linear-gradient(90deg, #F7C7C7, #03A6A1); padding: 30px; border-radius: 15px;">
+  <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/logo.png" alt="Maria Carpenter Logo" width="150">
+  <h1 style="color:#FFFFFF;">Maria Carpenter</h1>
+  <h3 style="color:#FFFFFF;">Full-Stack Web Developer | UX & Digital Design Student</h3>
+  <p><em>"Code with purpose, design with heart."</em></p>
+</div>
 
 
 
