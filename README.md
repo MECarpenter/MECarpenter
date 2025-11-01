@@ -21,8 +21,7 @@
   <em>“Code with purpose, design with heart.”</em>
 </p>
 
-<div align="center" style="background-color:#F7C7C7; padding: 30px; border-radius: 15px;">
-</div>
+<div align="center" style="background-color:#F7C7C7; height: 30px; border-radius: 15px; margin-top: 20px;"></div>
 
 
 ---
