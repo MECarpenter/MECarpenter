@@ -1,29 +1,23 @@
-<!-- 🌸 Background Banner -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/abstract-bokeh-pastel-background-beautiful-background-pastel-color_87555-4703.jpg"
-       alt="Pastel Background Banner"
-       width="100%"
-       style="border-radius: 10px; margin-bottom: -30px;">
+<!-- 🌸 Combined Background + Logo + Title -->
+<div align="center"
+     style="background: url('https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/abstract-bokeh-pastel-background-beautiful-background-pastel-color_87555-4703.jpg') center/cover no-repeat; 
+            padding: 80px 20px; 
+            border-radius: 15px;">
+
+  <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/logo%20png.png" 
+       width="300px" 
+       alt="Maria Carpenter Logo" 
+       style="margin-bottom: 20px;">
+
+  <h2 style="color:#067681; font-family: Nunito, sans-serif; margin: 10px 0;">
+    Full-Stack Web Developer | UX & Digital Design Student
+  </h2>
+
+  <p style="color:#6C1E1E; font-size: 1.1em;">
+    <em>“Code with purpose, design with heart.”</em>
+  </p>
+---
 </div>
-
-<!-- 💎 Logo and Title Section -->
-<p align="right">
-  <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/logo%20png.png"
-       width="560px"
-       alt="Maria Carpenter Logo">
-</p>
-
-<h2 align="center" style="color:#067681; font-family: Nunito, sans-serif;">
-  Full-Stack Web Developer | UX & Digital Design Student
-</h2>
-
-<p align="center" style="color:#6C1E1E;">
-  <em>“Code with purpose, design with heart.”</em>
-</p>
-
-<div align="center" style="background-color:#F7C7C7; padding: 30px; border-radius: 15px;">
-</div>
-
 ### 👩‍💻 About Me  
 
 I’m Maria Carpenter, a web development student at Arizona State University pursuing a degree in Graphic Information Technology.  
