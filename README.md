@@ -1,7 +1,7 @@
 <!-- 🌸 Background Banner -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/a82409e62b8c82512e95c48f5a38071bc2a35fe7/logo.jpg"
-       alt="Hidden Treasures Gaming Banner"
+       alt=" Banner"
        width="100%"
        style="border-radius: 15px;">
 </div>
@@ -23,6 +23,8 @@
 
 <div align="center" style="background-color:#F7C7C7; padding: 30px; border-radius: 15px;">
 </div>
+
+
 ---
 ## 👩‍💻 About Me  
 
