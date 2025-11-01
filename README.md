@@ -1,7 +1,15 @@
-<p align="right"> <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" width="560px" alt="Maria Carpenter Logo"> </p> <h2 align="center" style="color:#067681; font-family: Nunito, sans-serif;">Full-Stack Web Developer | UX & Digital Design Student</h2> <p align="center" style="color:#6C1E1E;"><em>“Code with purpose, design with heart.”</em></p>
-<div align="center" style="background-color:#03A6A1; padding: 20px; border-radius: 12px;">
-  <h1 style="color:white;">Maria Carpenter</h1>
-  <p style="color:white;">Full-Stack Web Developer | UX & Digital Design Student</p>
+<div align="center" style="background-color:#F7C7C7; padding: 40px; border-radius: 15px;">
+
+  <p align="right">
+    <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/logo%20png.png" 
+         width="560px" 
+         alt="Maria Carpenter Logo">
+  </p>
+
+  <h1 style="color:#802E2B; font-family: Nunito, sans-serif;">Maria Carpenter</h1>
+  <h3 style="color:#03A6A1; font-family: Nunito, sans-serif;">Full-Stack Web Developer | UX & Digital Design Student</h3>
+  <p style="color:#6C1E1E;"><em>“Code with purpose, design with heart.”</em></p>
+
 </div>
 
 
