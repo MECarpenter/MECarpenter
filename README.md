@@ -17,7 +17,14 @@ s<p align="right"> <img src="https://github.com/MECarpenter/MECarpenter/blob/mai
   <em>“Code with purpose, design with heart.”</em>
 </p>
 
-<div align="center" style="background-color:#F7C7C7; padding: 30px; border-radius: 15px;">
+<div align="center" 
+     style="background-image: url('https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/abstract-bokeh-pastel-background-beautiful-background-pastel-color_87555-4703.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            padding: 30px;
+            border-radius: 15px;
+            background-color: rgba(247, 199, 199, 0.9);">
 </div>
 ---
 ## 👩‍💻 About Me  
