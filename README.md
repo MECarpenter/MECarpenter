@@ -1,11 +1,13 @@
 <div align="center">
+  
+s<p align="right"> <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" width="560px" alt="Maria Carpenter Logo"> </p> <h2 align="center" style="color:#067681; font-family: Nunito, sans-serif;">Full-Stack Web Developer | UX & Digital Design Student</h2> <p align="center" style="color:#6C1E1E;"><em>“Code with purpose, design with heart.”</em></p> <div align="center" style="background-color:#F7C7C7; padding: 30px; border-radius: 15px;"> </div>
   <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/abstract-bokeh-pastel-background-beautiful-background-pastel-color_87555-4703.jpg"
        alt="Pastel Background Banner"
        width="100%"
        style="border-radius: 10px; margin-bottom: -30px;">
 </div>
 
-s<p align="right"> <img src="https://github.com/MECarpenter/MECarpenter/blob/main/logo%20png.png" width="560px" alt="Maria Carpenter Logo"> </p> <h2 align="center" style="color:#067681; font-family: Nunito, sans-serif;">Full-Stack Web Developer | UX & Digital Design Student</h2> <p align="center" style="color:#6C1E1E;"><em>“Code with purpose, design with heart.”</em></p> <div align="center" style="background-color:#F7C7C7; padding: 30px; border-radius: 15px;"> </div>
+
 ### 👩‍💻 About Me  
 
 I’m Maria Carpenter, a web development student at Arizona State University pursuing a degree in Graphic Information Technology.  
