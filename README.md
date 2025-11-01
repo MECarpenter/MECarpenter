@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/MECarpenter/MECarpenter/main/abstract-bokeh-pastel-background-beautiful-background-pastel-color_87555-4703.jpg"
        alt="Pastel Background Banner"
        width="100%"
-       style="border-radius: 10px; margin-bottom: -30px;">
+       style="border-radius: 10px; margin-bottom: 0px;">
 </div>
 
 <!-- 💎 Logo and Title Section -->
